@@ -1,0 +1,27 @@
+[submodule "opus"]
+	path = 3rdparty/opus
+	url = https://gitlab.xiph.org/xiph/opus.git
+[submodule "3rdparty/minhook"]
+	path = 3rdparty/minhook
+	url = https://github.com/mumble-voip/minhook.git
+[submodule "3rdparty/mach-override-src"]
+	path = 3rdparty/mach-override-src
+	url = https://github.com/mumble-voip/mach_override.git
+[submodule "3rdparty/speexdsp"]
+	path = 3rdparty/speexdsp
+	url = https://github.com/mumble-voip/speexdsp.git
+[submodule "3rdparty/rnnoise-src"]
+	path = 3rdparty/rnnoise-src
+	url = https://github.com/mumble-voip/rnnoise.git
+[submodule "3rdparty/FindPythonInterpreter"]
+	path = 3rdparty/FindPythonInterpreter
+	url = https://github.com/Krzmbrzl/FindPythonInterpreter.git
+[submodule "3rdparty/tracy"]
+	path = 3rdparty/tracy
+	url = https://github.com/wolfpld/tracy.git
+[submodule "3rdparty/nlohmann_json"]
+	path = 3rdparty/nlohmann_json
+	url = https://github.com/ArthurSonzogni/nlohmann_json_cmake_fetchcontent
+[submodule "3rdparty/gsl"]
+	path = 3rdparty/gsl
+	url = https://github.com/microsoft/GSL.git
